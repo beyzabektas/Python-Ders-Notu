@@ -1,0 +1,3 @@
+Beyza Bektaş:70,60,65
+Sultan Kaya:20,30,40
+Rojda Arapoğlu:90 ,90,100
